@@ -6,7 +6,7 @@
   ],
   "depends": [
   ],
-  "description": "blah blah blah",
+  "description": "Utilities for manipulating PostScript documents to prepare for printing (prepress)",
   "license": "Artistic-2.0",
   "name": "PS::Prepress",
   "perl": "6.d",

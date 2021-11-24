@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-PS::Prepress - blah blah blah
+B<PS::Prepress> - Utilities for manipulating PostScript documents to prepare for printing (prepress)
 
 =head1 SYNOPSIS
 
@@ -14,7 +14,9 @@ use PS::Prepress;
 
 =head1 DESCRIPTION
 
-PS::Prepress is ...
+PS::Prepress consists of several utilities converted to Raku from the Perl collection 'psutils' and C
+program 'libpaper', both currently maintained by Reuben Thomas. Both are available on GitHub
+at L<https://github.com/rrthomas/psutils> and L<https://github.com/rrthomas/libpaper>.
 
 =head1 AUTHOR
 
